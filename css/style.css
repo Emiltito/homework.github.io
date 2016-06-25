@@ -1,37 +1,44 @@
-body{
-    background-color: #cccccc;
+  
+  body{
+    background-color: #efefef;
 }
 
-.content{
-    width: 800px;
+  .content{
+    width: 600px;
     height: 100%;
     border: 1px solid #dddddd;
     margin: 0px auto;
 	background-color: #ffffff;
+	box-shadow: 0 0 2px #d6d6d6;
 }
 
-.block1{
+  .block1{
     text-align: center;
     margin-bottom: 20px;
 }
 
-p{
+  p{
     font-family: Arial;
     font-size: 14px;
     line-height: 20px;
-    margin: 20px 40px;
+    margin: 20px 50px;
 }
 
-ul{
+  ul{
     font-family: Arial;
     font-size: 14px;
     line-height: 20px;
-    margin: 0px 20px 20px 20px;
+    margin: 0px 30px 20px 30px;
 
 }
 
-hr{
-    margin: 0 40px;
+  .line{
+    width: 85%; 
+    height: 1px; 
+    background: #000; 
+    margin: 5px 40px;
 }
+
+
 
 
